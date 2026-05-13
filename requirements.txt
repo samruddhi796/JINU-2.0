@@ -1,0 +1,12 @@
+groq
+fastapi
+uvicorn
+pywebview
+SpeechRecognition
+chromadb
+pyautogui
+psutil
+plyer
+PyGetWindow
+python-dotenv
+sse-starlette
